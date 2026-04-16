@@ -3,7 +3,7 @@
 ## 📌 Objective
 Analyze Titanic passenger data to understand factors affecting survival.
 
-## 🛠 Tools Used
+## 🛠 Tools Used 
 - Excel
 - Pivot Tables
 - Data Visualization
