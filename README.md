@@ -14,7 +14,7 @@ Analyze Titanic passenger data to understand factors affecting survival.
 - Children had higher survival probability
 
 ## 📷 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📁 Dataset
 Titanic dataset used for analysis
